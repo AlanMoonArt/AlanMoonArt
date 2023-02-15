@@ -1,4 +1,4 @@
-## Olá, me chamo Alan. Estudante de Programação!
+## Olá, me chamo Alan!
 <div align="left">
   <a href="https://github.com/AlanMoonArt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlanMoonArt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
