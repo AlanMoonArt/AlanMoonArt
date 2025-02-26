@@ -1,10 +1,8 @@
 ## Olá, me chamo Alan!
 <div align="left">
   <a href="https://github.com/AlanMoonArt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlanMoonArt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMoonArt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <h1> Estou estudando: </h1>
+  <h1> Tecnologias: </h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
